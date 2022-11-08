@@ -3,7 +3,7 @@ In this repo we are trying to contribute by adding the combined version of all r
 
 # Getting Started
 
-This repository includes Python Scripts, AI Algorithms, NLP Algorithm and Machine Learning Algorithm.
+This repository includes Python Scripts, AI Algorithms, NLP Algorithms and Machine Learning Algorithms.
 # Setup
 
 ### Clone the repository:
@@ -36,8 +36,10 @@ Feel free to check the [issues page](../../issues/).
 
 3. Changes Approved or request for changes.
 
-## issues, and feature
-    > Go to  [issues page](../../issues/) to pick a feature you are going to work on. you can also contribute by adding a issue on an important feature which should have been worked on.
+### issues, and feature
+[-] Go to  [issues page](../../issues/) to pick a feature you are going to work on;
+
+[-] You can also contribute by adding a issue on an important feature which should have been worked on.
 
 ## Show your support
 
